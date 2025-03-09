@@ -155,13 +155,6 @@ exports[`<Excalidraw/> > Test UIOptions prop > Test canvasActions > should rende
         Ctrl+O
       </div>
     </button>
-    <button
-      aria-label="Save to..."
-      class="dropdown-menu-item dropdown-menu-item-base"
-      data-testid="json-export-button"
-      title="Save to..."
-      type="button"
-    >
       <div
         class="dropdown-menu-item__icon"
       >
